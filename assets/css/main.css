@@ -1504,11 +1504,13 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
 	}
 
 	#intro.main img{
+		width:25%;
+		height: auto;
 		border-radius: 50%;
 	}
 
 	#intro.main h2{
-		padding: 1em 2em 0em 2em;
+		padding: 0em 2em 0em 2em;
 	}
 
 		@media screen and (max-width: 736px) {
