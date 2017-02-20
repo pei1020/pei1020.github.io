@@ -1498,9 +1498,8 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
 	}
 
 	div.center{
-		padding: 0em 2em 0em 2em;
-		margin-left: 32%;
-		width: 40%;
+		padding: 0em 1em 0em 2em;
+		width: 50%;
 		display: center;
 		text-align: left;
 	}
