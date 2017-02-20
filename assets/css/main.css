@@ -1497,16 +1497,22 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		text-align: center;
 	}
 
-	#intro.main span{
-		padding: 4em 2em 10em 2em;
-		width: 33%;
-		display: inline;
+	div.center{
+		padding: 0em 2em 0em 2em;
+		margin-left: 32%;
+		width: 40%;
+		display: center;
+		text-align: left;
 	}
 
 	#intro.main img{
 		width:25%;
 		height: auto;
 		border-radius: 50%;
+	}
+
+	p.p1{
+		text-align: left;
 	}
 
 	#intro.main h2{
@@ -1517,10 +1523,10 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
   list-style-type: disc;
   color: black;
   list-style-position: inside;
-  text-align: left;
+  text-align: center;
 }
 
-	#intro.main p{
+	#p1 p{
 		text-align: left;
 	}
 
