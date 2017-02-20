@@ -1329,6 +1329,7 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
 
 		#header a:hover {
 				color: #85C1E9 !important;
+				text-decoration: none;
 				outline: none;
 		}
 
