@@ -1628,7 +1628,19 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		text-align: center;
 	}
 
-	.smaller img header{
-			width: 50px;
-			height: 50px;
-		}
+	.background section{
+		margin-left: 1px;
+		width:100%;
+		display: center;
+		padding: 1em 4em 2em 4em;
+		background-color: #ffffff;
+		border-radius: 10px;
+		text-align: center;
+
+	}
+	.background div{
+		text-align: center;
+		background-color: #ffffff;
+		padding: 1em 2em 0em 2em;
+		border-radius: 10px;
+	}
