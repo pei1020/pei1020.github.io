@@ -1500,10 +1500,21 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
 	}
 
 	div.center{
-		padding: 0em 1em 0em 2em;
-		width: 50%;
+		padding: 0em 2em 0em 0em;
+		margin-left:15%;
+		width: 40%;
 		display: center;
 		text-align: left;
+		position: center;
+	}
+
+	div.content{
+		padding: 0em 5em 0em 0em;
+		margin-left: 15%;
+		width: 90%;
+		display: block;
+		text-align: left;
+		position: center;
 	}
 
 	#intro.main img{
@@ -1524,11 +1535,11 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
   list-style-type: disc;
   color: black;
   list-style-position: inside;
-  text-align: center;
+  text-align: left;
 }
 
 	#p1 p{
-		text-align: left;
+		text-align: center;
 	}
 
 	#intro.main a{
@@ -1622,7 +1633,7 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
 	}
 
 	#techskills{
-		padding: 1em 4em 2em 4em;
+		padding: 3em 4em 2em 4em;
 		background-color: #ffffff;
 		border-radius: 10px;
 		text-align: center;
@@ -1645,6 +1656,4 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		padding: 1em 2em 0em 2em;
 		border-radius: 10px;
 	}
-    #test{
-    	
-    }
+   
