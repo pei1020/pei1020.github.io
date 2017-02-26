@@ -1069,7 +1069,7 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
 /* Item */
 
 	.item {
-		padding: 3em 3em 1em 3em;
+		padding: 2em 3em 1em 3em;
 		background-color: #ffffff;
 		border-radius: 4px;
 		text-align: center;
@@ -1258,7 +1258,7 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
 /* Wrapper */
 
 	#wrapper {
-		width: 64em;
+		width: 74em;
 		margin: 0 auto;
 		max-width: calc(100% - 4em);
 		padding: 4em 0 2em 0;
@@ -1495,7 +1495,7 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
 	#intro {
 		padding: 4em 4em 2em 4em;
 		background-color: #ffffff;
-		border-radius: 10px;
+		border-radius: 4px;
 		text-align: center;
 	}
 
@@ -1635,25 +1635,30 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
 	#techskills{
 		padding: 3em 4em 2em 4em;
 		background-color: #ffffff;
-		border-radius: 10px;
+		border-radius: 4px;
 		text-align: center;
 	}
 
 
 	#project.background section{
-		margin-left: 1px;
-		width:100%;
+		margin-left: 0em;
+		margin-right: 3em;
+		width:auto;
+		height: auto;
 		display: center;
-		padding: 1em 4em 2em 1em;
+		padding: 3em 0em 0em 0em;
 		background-color: #ffffff;
-		border-radius: 10px;
+		border-radius: 4px;
 		text-align: center;
 
 	}
 	#project.background div{
 		text-align: center;
+		padding: 3em 0em 0em 0em;
 		background-color: #ffffff;
-		padding: 1em 2em 0em 2em;
-		border-radius: 10px;
+		border-radius: 4px;
+		width:auto;
+		height: auto;
+
 	}
    
