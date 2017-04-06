@@ -1093,7 +1093,7 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			background-color: #444;
+			background-color: #ffffff;
 			color: rgba(255, 255, 255, 0.75);
 			position: relative;
 			overflow: hidden;
@@ -1661,4 +1661,44 @@ nav		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		height: auto;
 
 	}
+
+.wp1, .wp2, .wp3, .wp4, .wp5, .wp6 { visibility: hidden; }
+.bounceInLeft, .bounceInRight, .fadeInUp, .fadeInUpDelay, .fadeInDown, .fadeInUpD, .fadeInLeft, .fadeInRight { visibility: visible; }
+.delay-05s { animation-delay: 0.5s; -webkit-animation-delay: 0.5s; }
+.delay-1s { animation-delay: 1s; -webkit-animation-delay: 1s; }
+
+* {box-sizing: border-box}
+
+.left{
+	text-align: left;
+	padding-left:2em;
+}
+.right{
+	text-align: left;
+	padding-left:2em;
+}
+.container{
+  width: 35%;
+  color: #ddd;
+  border-radius: 55%;
+}
+
+.skills {
+  text-align: right;
+  padding-right: 20px;
+  line-height: 23px;
+  color: white;
+  border-radius: 13px;
+}
+
+.html {width: 70%; background-color: #cccccc;}
+.css {width: 70%; background-color: #cccccc;}
+.js {width: 60%; background-color: #cccccc;}
+.cplusplus {width: 80%; background-color: #cccccc;}
+.c{width: 70%; background-color: #cccccc;}
+.swift{width: 50%; background-color: #cccccc;}
+.assembly{width: 60%; background-color: #cccccc;}
+.java{width: 40%; background-color: #cccccc;}
+
+
    
